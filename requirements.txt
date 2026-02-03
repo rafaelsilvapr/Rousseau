@@ -1,6 +1,6 @@
-streamlit
-basic-pitch
-librosa
-numpy
-tensorflow-cpu
-pyphen
+streamlit==1.31.0
+numpy>=1.23.5,<1.24.0
+tensorflow-cpu==2.15.0
+basic-pitch==0.4.0
+librosa==0.10.1
+pyphen==0.14.0
