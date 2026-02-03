@@ -1,0 +1,6 @@
+streamlit
+basic-pitch
+librosa
+numpy
+tensorflow-cpu
+pyphen
